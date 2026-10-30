@@ -103,7 +103,7 @@ Enables end-users to examine absolute database metrics via custom popup tables:
 
 ---
 
-## ⚙️ Core Technical Competencies Highlighted
+## ⚙️ Core Technical Competencies Demonstrated
 * **Esri Stack:** ArcGIS Pro, ArcGIS Online (AGOL), Experience Builder, ArcGIS Hub, Map Series templates.
 * **Data Management:** Hosted Feature Layer Publishing, Schema Standardization, Data Archiving, and Performance Tuning.
 * **Enablement:** System Documentation Creation and Technical Peer-Staff Training.
