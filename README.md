@@ -5,9 +5,10 @@ A curated collection of production-grade Web GIS solutions, interactive applicat
 ---
 
 ## 🗺️ 1. Advanced Cartography & Automated Map Series
-Designed high-fidelity print map templates and structured dynamic **Map Series** environments to support large-scale infrastructure development and regional planning workflows. 
+Designed high-fidelity print map templates and structured dynamic **Map Series** environments to support large-scale infrastructure development and regional planning workflows for **An Coimisiún Pleanála**. 
 
-* **Operational Impact:** Spearheaded full life-cycle documentation and conducted peer-led technical training to upskill departmental personnel for seamless day-to-day layout operations.
+* **Operational Impact:** Designed and deployed the automated map series production workflow from scratch. Authored full life-cycle documentation and conducted peer-led technical training to upskill departmental planning and regulatory personnel for seamless day-to-day layouts.
+
 
 ### Print Layout Customization
 Using automated server printing layouts tailored to enterprise configurations:
@@ -45,7 +46,9 @@ Configured publishing access types, data source profiles, and enterprise web spe
 ## 🛠️ 3. Interactive GIS Applications (ArcGIS Experience Builder)
 Transformed static spatial databases into focused dashboard systems using **ArcGIS Experience Builder**. Applications feature fluid responsive framework parameters across desktop and mobile form factors to prioritize human-centric navigation.
 
+* **Bespoke Enterprise Viewers:** Built a suite of custom internal map viewer applications from the ground up, giving internal planners and operational teams direct, self-serve access to complex regulatory datasets.
 * **Integrated System Widgets:** Map Elements, Condition Filters, Select Tools, Swipe Panels, Interactive Lists, and Data Grid Attribution.
+* **Quality Assurance Integration:** Managed task processing workflows through Atlassian Jira and executed structured layout verification using TestRail to guarantee flawless software delivery.
 
 ### Internal Infrastructure Map Viewer Portal
 The main workspace dashboard featuring customized data collection layers and integrated spatial analysis modules:
@@ -83,7 +86,7 @@ Maintained an organized portfolio of distinct Web Experiences tailored for proto
 ## 🏛️ 4. Stakeholder Portals & Open Data Hubs (ArcGIS Hub)
 Designed and deployed a public-facing **ArcGIS Hub** platform as an agile Proof of Concept (POC) to successfully illustrate central data accessibility pipelines for critical public infrastructure initiatives.
 
-* **Operational Target:** Delivered low-friction spatial metadata exploration to cross-functional stakeholders, expediting feedback loops before a comprehensive global production deployment.
+* **Operational Target:** Engineered a specialized POC to search, visualize, and analyze offshore windfarm and renewable energy planning assessments. This framework bridges data transparency gaps, allowing external stakeholders and cross-functional teams to query spatial project boundaries effectively before full rollout.
 
 ### Portal Ingestion Landing Page Configuration
 Setting up core description details and organizational structural frameworks:
