@@ -30,7 +30,7 @@ Developed data-driven web maps within **ArcGIS Online**, emphasizing performance
 * **Optimization Focus:** Managed schema configurations, standardized metadata packages, and fine-tuned geometric indexing before target-hosted feature layer publishing.
 
 ### Web Map Inventory Management
-Organized structured feature sets and web mapping contexts optimized for production deployment:
+Organised structured feature sets and web mapping contexts optimized for production deployment:
 ![Web Map Inventory](./assets/webmap_inventory.png)
 
 ### Multi-Layer & Symbology Mapping
